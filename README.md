@@ -1,4 +1,4 @@
-# Data-Processing-Pipeline-and-Functions-for-Historical-Bond-Data
+# Bond Processing Pipeline and Functions 
  Functions for calculating Bond YTM, Bond Duration, Bond Convexity, Bond Price without any assumptions.
  
  In bonds, the first payment period is usually shorter than the remaining periods. The above calculations can also be made by assuming that this is equal, but for the  exact result, each must be included in the process as in real life, although this increases the amount of processing and code, but allows us to get more realistic results.
